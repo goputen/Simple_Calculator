@@ -1,0 +1,45 @@
+
+#result {
+    width: 171px;
+    height: 49px;
+    padding-top: 10px;
+    padding-left: 7px;
+    border: 2px solid black;
+    
+
+}
+
+.btn {
+    width: 63px;
+    height: 65px;
+    font-size: 24px;
+    margin: -3px;
+    background: #f4f4f4;
+
+}
+
+.btnwrapper {
+    width: fit-content;
+    margin: auto;
+    margin-top: 5px;
+
+}
+
+.container {
+    width: fit-content;
+    margin: auto;
+    
+    
+}
+.container{
+
+    margin-top: 100px;
+}
+.wrapper{
+    border: 1px solid black;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 65px;
+    border: 3px solid black;
+
+}
